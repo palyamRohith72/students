@@ -1,15 +1,7 @@
-# Use a pre-built version of dlib for compatibility
-dlib==19.22.1  # You can specify a working version
-
-# Use face-recognition, which will automatically install dlib
 face-recognition==1.3.0
-
-# Streamlit-related packages
 streamlit
 streamlit-option-menu
 streamlit-extras
-
-# Other dependencies
 pymongo
 pandas
 numpy
