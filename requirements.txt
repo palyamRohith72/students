@@ -1,15 +1,8 @@
 # Streamlit & Core Dependencies
 streamlit==1.29.0
-numpy==1.23.5
+pandas
 pillow==9.5.0
-scipy==1.10.1
-imutils==0.5.4
-scikit-image==0.20.0
-cmake==3.26.4  # Required for dlib compilation
-
+cmake==3.26.4 
 # Face Recognition & dlib
 dlib==19.24.2
 face_recognition==1.3.0
-
-# OpenCV (Headless version to avoid GUI issues)
-opencv-python-headless==4.7.0.72
