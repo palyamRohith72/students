@@ -1,7 +1,0 @@
-cmake
-g++
-make
-libopenblas-dev
-liblapack-dev
-libx11-dev
-libffi-dev
