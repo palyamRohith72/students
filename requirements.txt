@@ -1,7 +1,7 @@
 # Streamlit & Core Dependencies
 streamlit==1.29.0
 pandas
-pillow==9.5.0
+pillow
 cmake==3.26.4 
 # Face Recognition & dlib
 dlib==19.24.2
