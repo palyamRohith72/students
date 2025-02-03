@@ -1,1 +1,6 @@
--e .
+streamlit
+face_recognition
+dlib
+numpy
+pillow
+opencv-python
